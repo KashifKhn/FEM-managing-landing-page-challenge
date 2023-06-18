@@ -1,5 +1,8 @@
 # FEM-managing-landing-page-challenge
 
+## Live View
+https://kashifkhn.github.io/FEM-managing-landing-page-challenge/
+
 
 This is a website for the Manage landing page, created as a part of the Frontend Mentor challenge. The website showcases the features and benefits of the Manage software for managing day-to-day tasks and team goals.
 
